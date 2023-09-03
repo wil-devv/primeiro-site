@@ -105,3 +105,8 @@ footer {
     color: white;
     text-align: center;
 }
+
+footer a:hover {
+    background-color: #614db9;
+    transition-duration: .6s;
+}
